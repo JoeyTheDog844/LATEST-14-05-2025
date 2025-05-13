@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --add-data "DRDO_Seal.png;." --icon=cyber_icon.ico gui2.py
